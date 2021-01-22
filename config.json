@@ -1,0 +1,25 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/bookrev",
+    "prod_uri": "mysql://root:@localhost/bookrev",
+    "fb_url": "https://facebook.com/bookrev",
+    "tw_url": "https://twitter.com/bookrev",
+    "gh_url": "https://github.com/bookrev",
+    "blog_name": "Book Rev",
+    "tag_line": "A Book Review App",
+    "gmail_user": "youremail@gmail.com",
+    "gmail_password":"your password",
+    "about_text": "Hi I am Shivani and I love programming and I am a good girl. I also love solving DSA problems. Though I am a noob but I am trying hard. Thank You!",
+    "no_of_posts": 2,
+    "login_image": "login.svg",
+    "admin_user": "Shivani",
+    "admin_password": "Shivaniagain",
+    "upload_location": "C:\\Users\\Shivani Singh\\Desktop\\webapp task1\\static"
+
+
+
+
+  }
+}
